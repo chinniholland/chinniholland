@@ -19,6 +19,26 @@ Hi! I'm **Chinni Holland**, a passionate developer committed to creating elegant
 
 ---
 
+## 📚 Detailed Portfolio & Resources
+
+For a comprehensive view of my professional background, skills, learning path, and career strategy, please visit my detailed portfolio repository:
+
+<div align="center">
+
+### 📖 **[Sri.R - Detailed Portfolio & Development Guide](https://github.com/chinniholland/sri.r)** 🔗
+
+**Inside you'll find:**
+- 💼 **[PORTFOLIO.md](https://github.com/chinniholland/sri.r/blob/main/PORTFOLIO.md)** - Complete professional summary & achievements
+- 🎯 **[SKILLS.md](https://github.com/chinniholland/sri.r/blob/main/SKILLS.md)** - Technical skills matrix & proficiency levels
+- 📚 **[LEARNING.md](https://github.com/chinniholland/sri.r/blob/main/LEARNING.md)** - Learning resources & certification roadmap
+- 🎨 **[CUSTOMIZATION.md](https://github.com/chinniholland/sri.r/blob/main/CUSTOMIZATION.md)** - Profile optimization guide
+- 📁 **[REPOSITORY_STRUCTURE.md](https://github.com/chinniholland/sri.r/blob/main/REPOSITORY_STRUCTURE.md)** - Best practices & standards
+- 🚀 **[CAREER_GROWTH.md](https://github.com/chinniholland/sri.r/blob/main/CAREER_GROWTH.md)** - Career advancement strategy
+
+</div>
+
+---
+
 ## 💻 Technical Skills
 
 ### 🎯 Programming Languages
@@ -104,7 +124,7 @@ Hi! I'm **Chinni Holland**, a passionate developer committed to creating elegant
 | Project | Description | Status |
 |---------|-------------|--------|
 | **[NeoFlow Bank](https://github.com/chinniholland/NeoFlow-Bank)** | Modern banking application with advanced financial features | 🚀 Active |
-| *Your Next Project* | Building innovative solutions | 🔄 Coming Soon |
+| **[Sri.R Portfolio](https://github.com/chinniholland/sri.r)** | Comprehensive development and career growth guide | 📚 Reference |
 
 ### 🏷️ Areas of Expertise
 
@@ -192,6 +212,8 @@ Let's collaborate and build something extraordinary together! 🚀
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chinniholland.chinniholland)
   
   **Made with ❤️ by Chinni Holland**
+  
+  [View Detailed Portfolio →](https://github.com/chinniholland/sri.r)
   
 </div>
 
