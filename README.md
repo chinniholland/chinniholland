@@ -1,40 +1,20 @@
 # 👋 Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ai+Developer;Building+Innovative+Solutions;Tech+Enthusiast;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Innovative+Solutions;Tech+Enthusiast;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-Hi! I'm **Sri. R**, a passionate developer committed to creating elegant, efficient, and impactful solutions. I specialize in building full-stack applications that solve real-world problems. My journey in tech is driven by curiosity, continuous learning, and a desire to contribute meaningfully to the developer community.
+Hi! I'm **Chinni Holland**, a passionate developer committed to creating elegant, efficient, and impactful solutions. I specialize in building full-stack applications that solve real-world problems. My journey in tech is driven by curiosity, continuous learning, and a desire to contribute meaningfully to the developer community.
 
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/chinniholland?label=Follow&style=social)](https://github.com/chinniholland)
   [![GitHub Stars](https://img.shields.io/github/stars/chinniholland?style=social)](https://github.com/chinniholland)
   
-</div>
-
----
-
-## 📚 Detailed Portfolio & Resources
-
-For a comprehensive view of my professional background, skills, learning path, and career strategy, please visit my detailed portfolio repository:
-
-<div align="center">
-
-### 📖 **[Sri.R - Detailed Portfolio & Development Guide](https://github.com/chinniholland/sri.r)** 🔗
-
-**Inside you'll find:**
-- 💼 **[PORTFOLIO.md](https://github.com/chinniholland/sri.r/blob/main/PORTFOLIO.md)** - Complete professional summary & achievements
-- 🎯 **[SKILLS.md](https://github.com/chinniholland/sri.r/blob/main/SKILLS.md)** - Technical skills matrix & proficiency levels
-- 📚 **[LEARNING.md](https://github.com/chinniholland/sri.r/blob/main/LEARNING.md)** - Learning resources & certification roadmap
-- 🎨 **[CUSTOMIZATION.md](https://github.com/chinniholland/sri.r/blob/main/CUSTOMIZATION.md)** - Profile optimization guide
-- 📁 **[REPOSITORY_STRUCTURE.md](https://github.com/chinniholland/sri.r/blob/main/REPOSITORY_STRUCTURE.md)** - Best practices & standards
-- 🚀 **[CAREER_GROWTH.md](https://github.com/chinniholland/sri.r/blob/main/CAREER_GROWTH.md)** - Career advancement strategy
-
 </div>
 
 ---
@@ -172,6 +152,27 @@ For a comprehensive view of my professional background, skills, learning path, a
 
 ---
 
+## 📚 Detailed Portfolio & Resources
+
+For a comprehensive view of my professional background, skills, learning path, and career strategy, please visit my detailed portfolio repository:
+
+<div align="center">
+
+### 📖 [Sri.R - Detailed Portfolio & Development Guide](https://github.com/chinniholland/sri.r) 🔗
+
+**Inside you'll find:**
+
+- 💼 [PORTFOLIO.md](https://github.com/chinniholland/sri.r/blob/main/PORTFOLIO.md) - Complete professional summary & achievements
+- 🎯 [SKILLS.md](https://github.com/chinniholland/sri.r/blob/main/SKILLS.md) - Technical skills matrix & proficiency levels
+- 📖 [LEARNING.md](https://github.com/chinniholland/sri.r/blob/main/LEARNING.md) - Learning resources & certification roadmap
+- 🎨 [CUSTOMIZATION.md](https://github.com/chinniholland/sri.r/blob/main/CUSTOMIZATION.md) - Profile optimization guide
+- 📁 [REPOSITORY_STRUCTURE.md](https://github.com/chinniholland/sri.r/blob/main/REPOSITORY_STRUCTURE.md) - Best practices & standards
+- 🚀 [CAREER_GROWTH.md](https://github.com/chinniholland/sri.r/blob/main/CAREER_GROWTH.md) - Career advancement strategy
+
+</div>
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -212,8 +213,6 @@ Let's collaborate and build something extraordinary together! 🚀
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chinniholland.chinniholland)
   
   **Made with ❤️ by Chinni Holland**
-  
-  [View Detailed Portfolio →](https://github.com/chinniholland/sri.r)
   
 </div>
 
