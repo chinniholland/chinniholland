@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Chinni Holland**, a passionate developer committed to creating elegant, efficient, and impactful solutions. I specialize in building full-stack applications that solve real-world problems. My journey in tech is driven by curiosity, continuous learning, and a desire to contribute meaningfully to the developer community.
+Hi! I'm **Sri.R**, a passionate developer committed to creating elegant, efficient, and impactful solutions. I specialize in building full-stack applications that solve real-world problems. My journey in tech is driven by curiosity, continuous learning, and a desire to contribute meaningfully to the developer community.
 
 <div align="center">
   
